@@ -10,7 +10,7 @@ This is a basic implementation of a cli via a python script that will, given a r
 
 ## Usage
 
-1. Run the scipt with given arguments.
+1. Run the cli_interface.py scipt with given arguments.
   * To upload give the __--u__ argument and give a path to the root folder that you want to upload.
     * path can be relative or absolute
 
